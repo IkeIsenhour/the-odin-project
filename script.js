@@ -1,4 +1,4 @@
-// file:///Users/ikeisenhour/the-odin-project/index.html 
+// file:///Users/ikeisenhour/the-odin-project/index.html
 
 let playerWinCounter = 0
 let computerWinCounter = 0
